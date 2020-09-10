@@ -1,0 +1,25 @@
+conda create --name face_recog python=3.7
+
+conda activate face_recog
+
+pip install opencv-python
+
+conda update --all
+
+to check whether you have installed correctly 
+>>> import cv2
+>>> print(cv2.__version__)
+
+
+
+https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81
+
+https://www.youtube.com/watch?v=7IFhsbfby9s
+
+To understand how face detection in open cv works 
+https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php
+
+Github link for different xml , go to frontal face defualt.xml 
+
+click save as in chrome and save it as a xml document
+
