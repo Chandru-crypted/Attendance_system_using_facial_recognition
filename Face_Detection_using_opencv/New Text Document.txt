@@ -20,6 +20,7 @@ To understand how face detection in open cv works
 https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Detection_Face_Detection_Haar_Cascade_Classifiers.php
 
 Github link for different xml , go to frontal face defualt.xml 
+https://github.com/opencv/opencv/tree/master/data/haarcascades
 
 click save as in chrome and save it as a xml document
 
