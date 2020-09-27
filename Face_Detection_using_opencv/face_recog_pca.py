@@ -1,3 +1,6 @@
+# refer this github repo and this notebook
+# https://github.com/xanmolx/FaceDetectorUsingPCA/blob/master/PCA_Face_Recognition_IIT2016040.ipynb
+
 import numpy as np
 import cv2
 #from matplotlib import pyplot as plt
