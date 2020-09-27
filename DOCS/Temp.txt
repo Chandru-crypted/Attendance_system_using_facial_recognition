@@ -1,0 +1,2 @@
+Viola jones algorithm can :
+detector can process 300 by 200 pixel image in 15 frames per second.
