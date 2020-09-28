@@ -1,2 +1,5 @@
 Viola jones algorithm can :
 detector can process 300 by 200 pixel image in 15 frames per second.
+
+images taken from here
+http://vis-www.cs.umass.edu/lfw/#explore
