@@ -22,5 +22,8 @@ https://www.bogotobogo.com/python/OpenCV_Python/python_opencv3_Image_Object_Dete
 Github link for different xml , go to frontal face defualt.xml 
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-click save as in chrome and save it as a xml document
+click save as in chrome and save it as a xml document 
+
+An article about which face detector to use a very good article 
+https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
 
