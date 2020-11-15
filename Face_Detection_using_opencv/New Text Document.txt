@@ -43,5 +43,10 @@ https://www.learnopencv.com/histogram-of-oriented-gradients/
 
 
 
+A course by open cv itself
+https://opencv.org/courses/#price
+
+
+
 
 
