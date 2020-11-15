@@ -26,4 +26,22 @@ click save as in chrome and save it as a xml document
 
 An article about which face detector to use a very good article 
 https://www.learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+v
+I tried har cascade cclassifier it did not work very well, then i thought of trying dlib detector using HOG classifiers
+So it needed the dlib library to be installed it is another library like open cv 
+to install that in windows u need 
+
+https://pypi.org/project/face-recognition/
+
+https://github.com/ageitgey/face_recognition/issues/175#issue-257710508
+
+Understanding HOG 
+
+https://www.pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+
+https://www.learnopencv.com/histogram-of-oriented-gradients/
+
+
+
+
 
