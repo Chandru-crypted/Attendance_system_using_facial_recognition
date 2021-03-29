@@ -8,6 +8,7 @@ print(unknown_image)
 half = cv2.resize(unknown_image, (0, 0), fx = 0.1, fy = 0.1) 
 
 known_encoding = face_recognition.face_encodings(known_image)[0]
+print(known_encoding)
 unknown_encoding = face_recognition.face_encodings(half)[0]
 
 print(known_encoding)
