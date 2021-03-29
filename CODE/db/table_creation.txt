@@ -136,13 +136,12 @@ CREATE TABLE register (
 # An example insert command 
 # See updating_register_table.py
 
-INSERT INTO register_new (Reg_ID) VALUES ("RA1711004040028");
 
-UPDATE register_new
-SET Face_arr_0 = 0.10
-WHERE
-    ID = 1;
+If u want to clear the database just type 
+drop table register;
 
-# i have made characters because 127 + (128 * 8)
-# i have chosen 8 characters for each element in the array
+then copy this create table code again to create it
+
+
+
 
