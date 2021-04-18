@@ -19,7 +19,7 @@ import sqlite3
 reslt1 = []
 reslt2 = []
     
-dbase = sqlite3.connect('attendance.db')
+dbase = sqlite3.connect(r'db/attendance.db')
 print ('attendance Database opened')
 
 dbase.execute('''CREATE TABLE IF NOT EXISTS students_record(
@@ -215,6 +215,7 @@ def send_data():
             print("Image saved sucessful\n")
     else:
             print("Image save failed\n")
+
 
 
     read_data(m)
